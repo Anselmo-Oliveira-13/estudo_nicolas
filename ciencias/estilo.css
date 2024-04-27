@@ -1,0 +1,48 @@
+body{
+    background-color: #c5edc5;
+    font-family: var(--fonte-padrao);
+}
+header{
+    min-height: 150px;
+    text-align: center;
+    padding-top: 40px;
+}
+main{
+    min-width: 300px;
+    max-width: 1000px;
+    text-align: justify;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 0px 0px 10px 10px;
+}
+
+input{
+    border-color: rgb(212, 208, 208);
+    color: blue;
+}
+
+#txt_nome{
+    width: 30%;
+}
+#q2{
+width: 50%;
+}
+
+.q3{
+    width: 15px;
+}
+
+.q7{
+    width: 15px;
+}
+
+.q13{
+    width: 100%;
+}
+
+.q19{
+    width: 30px;
+}
